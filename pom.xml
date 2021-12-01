@@ -4,6 +4,6 @@
   <artifactId>dock-jenkins-integration</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 <build>
-	<finalName>dock-jenkins-integration</finalName>
+	<finalName>docker-jenkins-integration-sample</finalName>
 </build>
 </project>
